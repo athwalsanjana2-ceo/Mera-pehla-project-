@@ -1,49 +1,37 @@
-# 🚀 Day 1 - 1st Year B.Tech Journey | Sanju's Progress
+# Hi, I'm Sanjana 👋 | athwalsanjana2-ceo
 
-**Date:** 23 April 2026  
-**Mood:** CEO Mode Activated 💪
+**1st Year Student | Future CEO | Learning in Public**
 
----
+## 🚀 About Me
+Papa ke sapne poore karne nikli hu. C nahi aati thi kal tak, aaj Internship ke liye lad rahi hu. 
+Mera mission: **1 saal me 100 green boxes + Papa ke liye job.**
 
-## 📅 Aaj Kya Kiya - Process Completed List
+## 🔥 My 100 Days of Learning Challenge
+**Target: 100 Commits in 2 Months | Current: Day-4**
 
-### 1. C Programming 💻
-- ✅ `for` loop samjha aur **Table Generator** banaya
-- ✅ `scanf` me `&` ka importance seekha 
-- ✅ **Garbage Value Bug** solve kiya: `60228031513258233584107346984960.00` → `7 x 1 = 7`
-- ✅ **Edge Case Testing:** User se `*` input leke C ko confuse kiya 😂
-- ✅ **Final Output:** `[Process completed - press Enter]`
+### **Progress Log:**
+| Day | Topic | What I Learned |
+| --- | --- | --- |
+| **Day-1** | GitHub Basics | Repository kaise banate hain, Commit kya hota hai |
+| **Day-2** | Chai Banana Story | Technical cheez simple example se samjhna |
+| **Day-3** | Blog Title Writing | Number + Problem + Curiosity = Click-worthy title |
+| **Day-4** | Canva Basics | Free me logo/poster banana, Template use karna |
 
-**Code Status:** `Working perfectly. Zero bugs.`
+## 🎯 Today's Win: 23 April 2026
+1. ✅ Applied to 4 internships on Internshala
+2. ✅ Made 7+ commits on GitHub  
+3. ✅ Got "Congratulations" mail for first application
+4. ✅ Started 100 Days Challenge
 
-### 2. Physics - Wave Optics 🌊
-- ✅ **Young's Double Slit Experiment** concept clear kiya
-- ✅ **Zebra Crossing Pattern** = Interference samjha 
-- ✅ **Conclusion:** Light is a Wave, not a particle
-- ✅ **Formula Mastered:** `β = λD/d` 
-- ✅ **Numerical Solved:** D=2m, d=1mm, λ=600nm → `β = 0.12mm`
-- ✅ **Handwritten Notes + Diagram** banaye - Topper material
+## 💪 Skills I'm Building
+- **C Programming** - Loops, Basics
+- **Digital Marketing** - SEO, Content Writing, Canva  
+- **GitHub** - Daily commits, README, Learning in Public
 
-**Physics Status:** `12th ka dar khatam. Concept crystal clear.`
-
-### 3. Mathematics - Limits 📐
-- ✅ `lim x→0 sin(x)/x = 1` ka concept samjha
-- ✅ 0/0 indeterminate form solve karna seekha
-
-**Maths Status:** `Boss level unlocked.`
-
----
-
-## 🎯 Today's Learning
-> **"12th ke baad coding darati thi. Aaj C ka table, Physics ka numerical, aur Maths ki limit - teeno crack kar diye. Me rukne wali nahi hu."**
+## 📈 Goal
+**1 June 2026 tak 100 green boxes + 1 Internship = Papa ko gift** 🎁
 
 ---
+**"Duniya me koi chij possible nahi hai, use possible banana padta hai"** ✨
 
-## 🔥 Tomorrow's Target
-1. C me `*` pattern printing
-2. Physics me Diffraction 
-3. GitHub pe 2nd commit
-
----
-
-**#FirstYearEngineer #CodeWithSanju #NoMoreFear #CEOinMaking**
+**Connect:** [Internshala Profile Link] | **Resume:** Coming Soon
